@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de4cdef1.css",
+    "main.js": "/static/js/main.1457f840.js",
+    "static/media/bg-tog-version-1.jpg": "/static/media/bg-tog-version-1.4379207a5c11f5a9589a.jpg",
+    "static/media/SVN-Avo.ttf": "/static/media/SVN-Avo.5d0827f05fa8942e1968.ttf",
+    "static/media/avatar-version-1.jpg": "/static/media/avatar-version-1.c7c5d175604c45af1ab1.jpg",
+    "index.html": "/index.html",
+    "main.de4cdef1.css.map": "/static/css/main.de4cdef1.css.map",
+    "main.1457f840.js.map": "/static/js/main.1457f840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4cdef1.css",
+    "static/js/main.1457f840.js"
+  ]
+}
