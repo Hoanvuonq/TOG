@@ -13,7 +13,7 @@ const Home = () => {
                     <img src={Avatar} alt="Item EOG" className="sm:w-[200px] w-[300px] border-[4px] rounded-2xl border-white" />
                     <h1 className="text-title text-white text-s sm:!text-[30px] !text-[80px] sm:leading-[50px] with-shadow">$CJ</h1>
                     <p className="text-content text-white text-center sm:!text-base !text-xl">CA : </p>
-                    <p className="text-content text-white text-center">AI The Squid Game</p>
+                    <p className="text-content text-white text-center">Carl CJ Johnson</p>
                     {/* <div className="all-center gap-10 mt-4 lg:flex-row flex-col">
                         <Link to={"#"} target="_blank">
                             <button className="bg-white text-[#432627] sm:py-3 py-8 px-10 sm:rounded-lg rounded-xl sm:w-[160px] w-[315px] sm:h-7 h-9 shadow-custom text-btn all-center">dextools chart</button>
